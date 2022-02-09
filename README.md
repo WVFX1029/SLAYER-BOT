@@ -6,9 +6,9 @@
 
 
 <div align="center">
-<img src="life.jpg" alt="Pepe" width="170" />
+<img src="https://imgur.com/a/5LE6nhw" alt="slayer Bot" width="170" />
 
-# Bosco Bot
+# Slayer Bot
 <p align="center">
  <a href="https://github.com/pepesir"><img title="Author" src="https://img.shields.io/badge/OWNER-h?color=black&style=for-the-badge&logo=github"></a>  <a href="https://Wa.me/+917736622139?text=Hello%20P3P3%20Bro🌝...fen%20boi%20aan😌💝"><img title="Author" src="https://img.shields.io/badge/Author P3P3 Sir-h?color=black&style=for-the-badge&logo=whatsapp"></a>
 <p align="center">
@@ -31,7 +31,7 @@
 ---
 
 ### `SIMPLE METHOD`
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@pepesir/PEPE-SIR-Qr-code?v=1) 
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@WINDROYT/SLAYER-BOT-Whatsapp-QR-Code?v=1) 
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/WVFX1029/SLAYER-BOT/)
